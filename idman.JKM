@@ -1,0 +1,26 @@
+[Common Keys]
+Shift+1=SayConnection1
+Shift+2=SayConnection2
+Shift+3=SayConnection3
+Shift+4=SayConnection4
+Shift+5=SayConnection5
+Shift+6=SayConnection6
+Shift+7=SayConnection7
+Shift+8=SayConnection8
+Shift+9=SayConnection9
+Shift+0=SayConnection10
+Shift+L=SayTimeLeft
+Shift+S=SayDownloadingSpeed
+Shift+D=SayDownloadedFile
+Shift+C=SayPercentage
+Shift+R=SayResumeCapability
+Control+Space=PauseStart
+Shift+U=SayURL
+Shift+N=SayFileName
+Shift+Z=SayFileSize
+Shift+T=SayDownloadStatus
+Shift+Z=SayFileSize
+Shift+T=SayDownloadStatus
+F8=ClickToolBarItem
+Enter=Enter
+Control+1=Test
